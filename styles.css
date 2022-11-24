@@ -13,8 +13,8 @@ div#profile-background{
     z-index:1;
 }
 
-.container-menu{
-    
+.navbar-light{
+    background-color: #dff3df;
 }
 
 div#profile-background img{
